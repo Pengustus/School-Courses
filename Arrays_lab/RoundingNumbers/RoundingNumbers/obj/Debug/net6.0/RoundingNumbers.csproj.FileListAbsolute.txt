@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\bin\Debug\net6.0\RoundingNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\refint\RoundingNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\RoundingNumbers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\RoundingNumbers\RoundingNumbers\obj\Debug\net6.0\ref\RoundingNumbers.dll

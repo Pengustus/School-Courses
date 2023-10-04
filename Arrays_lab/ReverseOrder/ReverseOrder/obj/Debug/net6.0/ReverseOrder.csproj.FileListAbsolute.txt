@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\bin\Debug\net6.0\ReverseOrder.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\bin\Debug\net6.0\ReverseOrder.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\bin\Debug\net6.0\ReverseOrder.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\bin\Debug\net6.0\ReverseOrder.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\bin\Debug\net6.0\ReverseOrder.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\refint\ReverseOrder.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ReverseOrder.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ReverseOrder\ReverseOrder\obj\Debug\net6.0\ref\ReverseOrder.dll

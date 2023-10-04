@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\bin\Debug\net6.0\DayOfTheWeek.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\refint\DayOfTheWeek.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\DayOfTheWeek.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\ArraysLab\DayOfTheWeek\obj\Debug\net6.0\ref\DayOfTheWeek.dll

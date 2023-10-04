@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\bin\Debug\net6.0\metersToKilometers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\bin\Debug\net6.0\metersToKilometers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\bin\Debug\net6.0\metersToKilometers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\bin\Debug\net6.0\metersToKilometers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\bin\Debug\net6.0\metersToKilometers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\refint\metersToKilometers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\metersToKilometers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\metersToKilometers\metersToKilometers\obj\Debug\net6.0\ref\metersToKilometers.dll

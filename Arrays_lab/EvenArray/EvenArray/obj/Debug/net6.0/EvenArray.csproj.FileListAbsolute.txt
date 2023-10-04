@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\bin\Debug\net6.0\EvenArray.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\bin\Debug\net6.0\EvenArray.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\bin\Debug\net6.0\EvenArray.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\bin\Debug\net6.0\EvenArray.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\bin\Debug\net6.0\EvenArray.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\refint\EvenArray.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\EvenArray.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_lab\EvenArray\EvenArray\obj\Debug\net6.0\ref\EvenArray.dll
