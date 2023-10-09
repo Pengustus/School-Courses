@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\bin\Debug\net6.0\Elevator.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\bin\Debug\net6.0\Elevator.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\bin\Debug\net6.0\Elevator.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\bin\Debug\net6.0\Elevator.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\bin\Debug\net6.0\Elevator.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\refint\Elevator.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\Elevator.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\DataTypes_HW\Elevator\Elevator\obj\Debug\net6.0\ref\Elevator.dll
