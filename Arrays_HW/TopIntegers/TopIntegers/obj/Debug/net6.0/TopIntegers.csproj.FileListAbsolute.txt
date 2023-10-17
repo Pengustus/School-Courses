@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\bin\Debug\net6.0\TopIntegers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\bin\Debug\net6.0\TopIntegers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\bin\Debug\net6.0\TopIntegers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\bin\Debug\net6.0\TopIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\bin\Debug\net6.0\TopIntegers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\refint\TopIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\TopIntegers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\TopIntegers\TopIntegers\obj\Debug\net6.0\ref\TopIntegers.dll

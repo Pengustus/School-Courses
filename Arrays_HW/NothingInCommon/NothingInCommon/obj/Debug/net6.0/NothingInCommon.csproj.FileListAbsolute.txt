@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\bin\Debug\net6.0\NothingInCommon.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\bin\Debug\net6.0\NothingInCommon.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\bin\Debug\net6.0\NothingInCommon.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\bin\Debug\net6.0\NothingInCommon.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\bin\Debug\net6.0\NothingInCommon.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\refint\NothingInCommon.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\NothingInCommon.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\NothingInCommon\NothingInCommon\obj\Debug\net6.0\ref\NothingInCommon.dll

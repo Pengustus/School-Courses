@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\bin\Debug\net6.0\Train.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\bin\Debug\net6.0\Train.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\bin\Debug\net6.0\Train.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\bin\Debug\net6.0\Train.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\bin\Debug\net6.0\Train.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\refint\Train.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\Train.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\Train\Train\obj\Debug\net6.0\ref\Train.dll

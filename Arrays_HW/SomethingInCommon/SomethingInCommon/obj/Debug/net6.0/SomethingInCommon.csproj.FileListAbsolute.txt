@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\bin\Debug\net6.0\SomethingInCommon.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\bin\Debug\net6.0\SomethingInCommon.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\bin\Debug\net6.0\SomethingInCommon.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\bin\Debug\net6.0\SomethingInCommon.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\bin\Debug\net6.0\SomethingInCommon.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\refint\SomethingInCommon.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\SomethingInCommon.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Arrays_HW\SomethingInCommon\SomethingInCommon\obj\Debug\net6.0\ref\SomethingInCommon.dll

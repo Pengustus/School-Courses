@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\bin\Debug\net6.0\Hangman.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\bin\Debug\net6.0\Hangman.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\bin\Debug\net6.0\Hangman.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\bin\Debug\net6.0\Hangman.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Hangman\Hangman\Hangman\obj\Debug\net6.0\ref\Hangman.dll
