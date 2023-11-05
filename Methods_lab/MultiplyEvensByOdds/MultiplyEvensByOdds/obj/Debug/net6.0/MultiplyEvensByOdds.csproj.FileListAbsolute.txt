@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\bin\Debug\net6.0\MultiplyEvensByOdds.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\refint\MultiplyEvensByOdds.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MultiplyEvensByOdds\MultiplyEvensByOdds\obj\Debug\net6.0\ref\MultiplyEvensByOdds.dll

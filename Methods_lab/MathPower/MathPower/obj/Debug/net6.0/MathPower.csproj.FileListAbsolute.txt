@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\bin\Debug\net6.0\MathPower.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\bin\Debug\net6.0\MathPower.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\bin\Debug\net6.0\MathPower.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\bin\Debug\net6.0\MathPower.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\bin\Debug\net6.0\MathPower.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\refint\MathPower.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\MathPower.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\MathPower\MathPower\obj\Debug\net6.0\ref\MathPower.dll

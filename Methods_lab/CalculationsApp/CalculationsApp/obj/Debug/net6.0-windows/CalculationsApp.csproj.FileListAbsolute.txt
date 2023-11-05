@@ -1,0 +1,17 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\bin\Debug\net6.0-windows\CalculationsApp.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\bin\Debug\net6.0-windows\CalculationsApp.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\bin\Debug\net6.0-windows\CalculationsApp.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\bin\Debug\net6.0-windows\CalculationsApp.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\bin\Debug\net6.0-windows\CalculationsApp.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.Form1.resources
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.csproj.GenerateResource.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\refint\CalculationsApp.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\CalculationsApp.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\CalculationsApp\CalculationsApp\obj\Debug\net6.0-windows\ref\CalculationsApp.dll

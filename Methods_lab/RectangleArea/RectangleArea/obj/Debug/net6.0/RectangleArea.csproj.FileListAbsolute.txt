@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\bin\Debug\net6.0\RectangleArea.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\bin\Debug\net6.0\RectangleArea.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\bin\Debug\net6.0\RectangleArea.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\bin\Debug\net6.0\RectangleArea.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\bin\Debug\net6.0\RectangleArea.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\refint\RectangleArea.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\RectangleArea.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\RectangleArea\RectangleArea\obj\Debug\net6.0\ref\RectangleArea.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net6.0\SignOfIntegerNumbers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net6.0\SignOfIntegerNumbers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net6.0\SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net6.0\SignOfIntegerNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\bin\Debug\net6.0\SignOfIntegerNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\refint\SignOfIntegerNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\SignOfIntegerNumbers\SignOfIntegerNumbers\obj\Debug\net6.0\ref\SignOfIntegerNumbers.dll
