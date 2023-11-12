@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixOfIntegers", "MatrixOfIntegers\MatrixOfIntegers.csproj", "{9D157B95-69CA-4C3E-890E-540759877382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D157B95-69CA-4C3E-890E-540759877382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D157B95-69CA-4C3E-890E-540759877382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D157B95-69CA-4C3E-890E-540759877382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D157B95-69CA-4C3E-890E-540759877382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF83F501-8B51-48F6-8E1C-07F46C0DB625}
+	EndGlobalSection
+EndGlobal

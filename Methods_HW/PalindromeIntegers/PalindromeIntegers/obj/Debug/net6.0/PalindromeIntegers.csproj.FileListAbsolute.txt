@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\bin\Debug\net6.0\PalindromeIntegers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\refint\PalindromeIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\PalindromeIntegers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\PalindromeIntegers\PalindromeIntegers\obj\Debug\net6.0\ref\PalindromeIntegers.dll

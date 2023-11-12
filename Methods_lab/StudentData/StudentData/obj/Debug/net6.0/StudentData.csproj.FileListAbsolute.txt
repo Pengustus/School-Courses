@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\bin\Debug\net6.0\StudentData.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\bin\Debug\net6.0\StudentData.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\bin\Debug\net6.0\StudentData.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\bin\Debug\net6.0\StudentData.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\bin\Debug\net6.0\StudentData.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\refint\StudentData.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\StudentData.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_lab\StudentData\StudentData\obj\Debug\net6.0\ref\StudentData.dll

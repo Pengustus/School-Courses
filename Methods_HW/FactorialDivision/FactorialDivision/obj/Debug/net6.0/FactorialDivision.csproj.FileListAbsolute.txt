@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\bin\Debug\net6.0\FactorialDivision.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\bin\Debug\net6.0\FactorialDivision.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\bin\Debug\net6.0\FactorialDivision.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\bin\Debug\net6.0\FactorialDivision.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\bin\Debug\net6.0\FactorialDivision.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\refint\FactorialDivision.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\FactorialDivision.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\FactorialDivision\FactorialDivision\obj\Debug\net6.0\ref\FactorialDivision.dll

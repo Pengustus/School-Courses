@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\bin\Debug\net6.0\MatrixOfIntegers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\bin\Debug\net6.0\MatrixOfIntegers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\bin\Debug\net6.0\MatrixOfIntegers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\bin\Debug\net6.0\MatrixOfIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\bin\Debug\net6.0\MatrixOfIntegers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\refint\MatrixOfIntegers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\MatrixOfIntegers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Methods_HW\MatrixOfIntegers\MatrixOfIntegers\obj\Debug\net6.0\ref\MatrixOfIntegers.dll
