@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\bin\Debug\net6.0\CardsGame.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\bin\Debug\net6.0\CardsGame.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\bin\Debug\net6.0\CardsGame.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\bin\Debug\net6.0\CardsGame.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\bin\Debug\net6.0\CardsGame.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\refint\CardsGame.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\CardsGame.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\CardsGame\CardsGame\obj\Debug\net6.0\ref\CardsGame.dll
