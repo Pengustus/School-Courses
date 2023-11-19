@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\bin\Debug\net6.0\ChangeList.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\bin\Debug\net6.0\ChangeList.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\bin\Debug\net6.0\ChangeList.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\bin\Debug\net6.0\ChangeList.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\bin\Debug\net6.0\ChangeList.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\refint\ChangeList.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ChangeList.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_HW\ChangeList\ChangeList\obj\Debug\net6.0\ref\ChangeList.dll

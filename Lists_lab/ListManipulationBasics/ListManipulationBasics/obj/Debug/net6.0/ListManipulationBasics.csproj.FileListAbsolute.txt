@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\bin\Debug\net6.0\ListManipulationBasics.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\refint\ListManipulationBasics.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ListManipulationBasics.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\ListManipulationBasics\ListManipulationBasics\obj\Debug\net6.0\ref\ListManipulationBasics.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\bin\Debug\net6.0\MergingLists.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\bin\Debug\net6.0\MergingLists.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\bin\Debug\net6.0\MergingLists.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\bin\Debug\net6.0\MergingLists.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\bin\Debug\net6.0\MergingLists.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\refint\MergingLists.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\MergingLists.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\MergingLists\MergingLists\obj\Debug\net6.0\ref\MergingLists.dll
