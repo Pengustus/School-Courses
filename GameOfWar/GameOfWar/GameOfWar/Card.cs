@@ -14,7 +14,6 @@ namespace GameOfWar
 
         public override string ToString()
         {
-
             int face = (int)Enum.Parse(typeof(CardFace), this.Face.ToString());
             char suite = (char)this.Suite;
             if (face > 10)
@@ -22,6 +21,7 @@ namespace GameOfWar
                 char charFace = this.Face.ToString()[0];
                 return $"{charFace}{suite}";
             }
+
             return $"{face}{suite}";
         }
     }
