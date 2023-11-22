@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\refint\GameOfWar.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\ref\GameOfWar.dll
