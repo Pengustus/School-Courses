@@ -130,9 +130,6 @@ namespace GameOfWar
                     return true;
                 }
                 return false;
-
-
-
             }
 
             void DrawPlayersCards()
@@ -160,6 +157,7 @@ namespace GameOfWar
                     {
                         AddCardsToWinnerDeck(deck2, deck1);
                         Console.WriteLine($"Second player does not have enough cards to continue playing...");
+                        break;
                     }
 
                     AddWarCardsToPool(pool);
