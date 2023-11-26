@@ -9,16 +9,31 @@
                 .Select(int.Parse)
                 .ToList();
 
-            List<string> list = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+            List<char> text = Console.ReadLine()
+                .ToCharArray()
                 .ToList();
 
-            int sum = nums.Sum();
+            string result = null;
 
-            while (list.Count < sum)
+            for (int i = 0; i < nums.Count; i++)
             {
-                list.AddRange(list);
+                int currentNum = nums[i];
+                char[] currentDigits = currentNum.ToString().ToCharArray();
+
+                int sum = 0;
+
+                for (int j = 0; j < currentDigits.Length; j++)
+                {
+                    sum += int.Parse(currentDigits[j].ToString());
+                }
+
+                int index = sum % text.Count;
+
+                result += text[index];
+                text.RemoveAt(index);
             }
+
+            Console.WriteLine(result);
         }
     }
 }

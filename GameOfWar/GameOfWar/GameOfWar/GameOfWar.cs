@@ -132,6 +132,15 @@ namespace GameOfWar
                 return false;
             }
 
+
+
+
+
+
+
+
+
+
             void DrawPlayersCards()
             {
                 card1 = deck1.Dequeue();
