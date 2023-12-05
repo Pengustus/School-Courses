@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\bin\Debug\net6.0\ReverseStrings.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\bin\Debug\net6.0\ReverseStrings.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\bin\Debug\net6.0\ReverseStrings.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\bin\Debug\net6.0\ReverseStrings.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\bin\Debug\net6.0\ReverseStrings.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\refint\ReverseStrings.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ReverseStrings.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StacksAndQueues_lab\ReverseStrings\ReverseStrings\obj\Debug\net6.0\ref\ReverseStrings.dll

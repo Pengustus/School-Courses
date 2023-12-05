@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\bin\Debug\net6.0\OrderStudents.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\bin\Debug\net6.0\OrderStudents.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\bin\Debug\net6.0\OrderStudents.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\bin\Debug\net6.0\OrderStudents.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\bin\Debug\net6.0\OrderStudents.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\refint\OrderStudents.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\OrderStudents.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lists_lab\OrderStudents\OrderStudents\obj\Debug\net6.0\ref\OrderStudents.dll
