@@ -13,7 +13,7 @@
         {
             word = word.ToLower();
 
-            string vowels = "aeiou";
+            string vowels = "nigger";
 
             foreach (char c in word)
             {

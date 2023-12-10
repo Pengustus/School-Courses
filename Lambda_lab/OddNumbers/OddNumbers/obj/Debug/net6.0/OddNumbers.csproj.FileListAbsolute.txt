@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\bin\Debug\net6.0\OddNumbers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\bin\Debug\net6.0\OddNumbers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\bin\Debug\net6.0\OddNumbers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\bin\Debug\net6.0\OddNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\bin\Debug\net6.0\OddNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\refint\OddNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\OddNumbers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\OddNumbers\OddNumbers\obj\Debug\net6.0\ref\OddNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\bin\Debug\net6.0\Names.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\bin\Debug\net6.0\Names.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\bin\Debug\net6.0\Names.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\bin\Debug\net6.0\Names.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\bin\Debug\net6.0\Names.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\refint\Names.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\Names.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\Names\Names\obj\Debug\net6.0\ref\Names.dll

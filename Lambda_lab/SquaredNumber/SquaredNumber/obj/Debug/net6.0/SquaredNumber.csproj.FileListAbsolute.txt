@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\bin\Debug\net6.0\SquaredNumber.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\bin\Debug\net6.0\SquaredNumber.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\bin\Debug\net6.0\SquaredNumber.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\bin\Debug\net6.0\SquaredNumber.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\bin\Debug\net6.0\SquaredNumber.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\refint\SquaredNumber.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\SquaredNumber.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\SquaredNumber\SquaredNumber\obj\Debug\net6.0\ref\SquaredNumber.dll
