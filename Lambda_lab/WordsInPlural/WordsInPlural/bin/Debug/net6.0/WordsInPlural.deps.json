@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WordsInPlural/1.0.0": {
+        "runtime": {
+          "WordsInPlural.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordsInPlural/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

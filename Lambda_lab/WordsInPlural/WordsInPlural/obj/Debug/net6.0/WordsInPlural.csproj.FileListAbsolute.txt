@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\bin\Debug\net6.0\WordsInPlural.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\bin\Debug\net6.0\WordsInPlural.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\bin\Debug\net6.0\WordsInPlural.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\bin\Debug\net6.0\WordsInPlural.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\bin\Debug\net6.0\WordsInPlural.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\refint\WordsInPlural.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\WordsInPlural.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\WordsInPlural\WordsInPlural\obj\Debug\net6.0\ref\WordsInPlural.dll

@@ -5,31 +5,33 @@
         static void Main(string[] args)
         {
             string name = Console.ReadLine();
-            string letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            string nums = "0123456789";
-            bool what = false;
-            
-            if (name.Length > 2 && letters.Contains(name[0]))
-            {               
-                foreach (char c in nums)
+
+            if (name.Length >= 3 && char.IsUpper(name[0]) && !Digit(name))
+            {
+                Console.WriteLine($"Hello, {name}!");
+
+                foreach (char character in name)
                 {
-                    if (name.Contains(c))
-                    {
-                        Console.WriteLine("Invalid name!");
-                        break;
-                    }
-                    else
-                    {
-                        what = true;
-                        Console.WriteLine("valid");
-                        break;
-                    }
+                    int asciiValue = character + 10;
+                    Console.WriteLine($"{asciiValue}");
                 }
             }
             else
             {
                 Console.WriteLine("Invalid name!");
             }
+        }
+
+        static bool Digit(string name)
+        {
+            foreach (char character in name)
+            {
+                if (char.IsDigit(character))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
 }

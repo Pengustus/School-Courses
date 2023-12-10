@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\bin\Debug\net6.0\FiveOddNumbers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\bin\Debug\net6.0\FiveOddNumbers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\bin\Debug\net6.0\FiveOddNumbers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\bin\Debug\net6.0\FiveOddNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\bin\Debug\net6.0\FiveOddNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\refint\FiveOddNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\FiveOddNumbers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\FiveOddNumbers\FiveOddNumbers\obj\Debug\net6.0\ref\FiveOddNumbers.dll

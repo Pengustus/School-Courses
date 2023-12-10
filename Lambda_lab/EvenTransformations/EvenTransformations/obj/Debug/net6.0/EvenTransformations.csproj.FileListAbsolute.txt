@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\bin\Debug\net6.0\EvenTransformations.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\bin\Debug\net6.0\EvenTransformations.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\bin\Debug\net6.0\EvenTransformations.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\bin\Debug\net6.0\EvenTransformations.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\bin\Debug\net6.0\EvenTransformations.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\refint\EvenTransformations.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\EvenTransformations.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\EvenTransformations\EvenTransformations\obj\Debug\net6.0\ref\EvenTransformations.dll
