@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\bin\Debug\net6.0\TheLift.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\bin\Debug\net6.0\TheLift.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\bin\Debug\net6.0\TheLift.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\bin\Debug\net6.0\TheLift.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\bin\Debug\net6.0\TheLift.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\refint\TheLift.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\TheLift.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\TheLift\TheLift\obj\Debug\net6.0\ref\TheLift.dll

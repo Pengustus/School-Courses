@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\bin\Debug\net6.0\MemoryGame.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\refint\MemoryGame.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\MemoryGame.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Lambda_lab\MemoryGame\MemoryGame\obj\Debug\net6.0\ref\MemoryGame.dll

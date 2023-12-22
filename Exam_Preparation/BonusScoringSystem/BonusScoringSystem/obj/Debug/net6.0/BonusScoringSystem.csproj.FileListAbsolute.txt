@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\bin\Debug\net6.0\BonusScoringSystem.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\bin\Debug\net6.0\BonusScoringSystem.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\bin\Debug\net6.0\BonusScoringSystem.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\bin\Debug\net6.0\BonusScoringSystem.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\bin\Debug\net6.0\BonusScoringSystem.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\refint\BonusScoringSystem.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\BonusScoringSystem.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\BonusScoringSystem\BonusScoringSystem\obj\Debug\net6.0\ref\BonusScoringSystem.dll
