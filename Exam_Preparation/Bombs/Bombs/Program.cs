@@ -4,63 +4,62 @@
     {
         static void Main(string[] args)
         {
-            int[] bombEffect = Console.ReadLine()
+            int[] effects = Console.ReadLine()
                 .Split(",", StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
-            int[] bombCasings = Console.ReadLine()
+            int[] casings = Console.ReadLine()
                 .Split(",", StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
-            Queue<int> BombQueue = new Queue<int>(bombEffect);
-            Stack<int> BombCasing = new Stack<int>(bombCasings);
+            Queue<int> queue = new Queue<int>(effects);
+            Stack<int> stack = new Stack<int>(casings);
 
-            int daturaCounter = 0;
-            int cherryCounter = 0;
-            int smokeCounter = 0;
+            int datura = 0;
+            int cherry = 0;
+            int smoke = 0;
 
             bool allBombs = false;
 
-            while (BombCasing.Count > 0 && BombQueue.Count > 0)
+            while (stack.Count > 0 && queue.Count > 0)
             {
-                int effect = BombQueue.Peek();
-                int casing = BombCasing.Peek();
+                int effect = queue.Peek();
+                int casing = stack.Peek();
 
                 if (effect + casing == 40)
                 {
-                    daturaCounter++;
-                    BombCasing.Pop();
-                    BombQueue.Dequeue();
+                    datura++;
+                    stack.Pop();
+                    queue.Dequeue();
                 }
                 else if (effect + casing == 60)
                 {
-                    cherryCounter++;
-                    BombCasing.Pop();
-                    BombQueue.Dequeue();
+                    cherry++;
+                    stack.Pop();
+                    queue.Dequeue();
                 }
                 else if (effect + casing == 120)
                 {
-                    smokeCounter++;
-                    BombCasing.Pop();
-                    BombQueue.Dequeue();
+                    smoke++;
+                    stack.Pop();
+                    queue.Dequeue();
                 }
                 else
                 {
-                    BombCasing.Pop();
-                    BombCasing.Push(casing - 5);
+                    stack.Pop();
+                    stack.Push(casing - 5);
                 }
 
 
-                if (daturaCounter >= 3 && cherryCounter >= 3 && smokeCounter >= 3)
+                if (datura >= 3 && cherry >= 3 && smoke >= 3)
                 {
                     allBombs = true;
                     break;
                 }
             }
 
-            //if (daturaCounter >= 3 && cherryCounter >= 3 && smokeCounter >= 3)
             if (allBombs)
             {
                 Console.WriteLine("Bene! You have successfully filled the bomb pouch!");
@@ -70,29 +69,29 @@
                 Console.WriteLine("You don't have enough materials to fill the bomb pouch.");
             }
 
-            if (BombQueue.Count == 0)
+            if (queue.Count == 0)
             {
                 Console.WriteLine("Bomb Effects: empty");
             }
-            else if (BombQueue.Count > 0)
+            else if (queue.Count > 0)
             {
-                Console.WriteLine($"Bomb Effects: {string.Join(", ", BombQueue)}");
+                Console.WriteLine($"Bomb Effects: {string.Join(", ", queue)}");
 
             }
-            //Console.WriteLine();
-            if (BombCasing.Count == 0)
+
+            if (stack.Count == 0)
             {
                 Console.WriteLine("Bomb Casings: empty");
             }
-            else if (BombCasing.Count > 0)
+            else if (stack.Count > 0)
             {
-                Console.WriteLine($"Bomb Casings: {string.Join(", ", BombCasing)}");
+                Console.WriteLine($"Bomb Casings: {string.Join(", ", stack)}");
 
             }
-            //Console.WriteLine();
-            Console.WriteLine($"Cherry Bombs: {cherryCounter}");
-            Console.WriteLine($"Datura Bombs: {daturaCounter}");
-            Console.WriteLine($"Smoke Decoy Bombs: {smokeCounter}");
+
+            Console.WriteLine($"Cherry Bombs: {cherry}");
+            Console.WriteLine($"Datura Bombs: {datura}");
+            Console.WriteLine($"Smoke Decoy Bombs: {smoke}");
         }
     }
 }
