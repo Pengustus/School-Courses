@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\bin\Debug\net6.0\FlowerWreaths.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\refint\FlowerWreaths.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\FlowerWreaths.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\FlowerWreaths\FlowerWreaths\obj\Debug\net6.0\ref\FlowerWreaths.dll

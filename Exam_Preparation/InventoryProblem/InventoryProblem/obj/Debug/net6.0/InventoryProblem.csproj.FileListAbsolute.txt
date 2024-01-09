@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\bin\Debug\net6.0\InventoryProblem.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\bin\Debug\net6.0\InventoryProblem.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\bin\Debug\net6.0\InventoryProblem.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\bin\Debug\net6.0\InventoryProblem.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\bin\Debug\net6.0\InventoryProblem.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\refint\InventoryProblem.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\InventoryProblem.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\InventoryProblem\InventoryProblem\obj\Debug\net6.0\ref\InventoryProblem.dll
