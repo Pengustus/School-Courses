@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\bin\Debug\net6.0\MaximalSum3x3.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\bin\Debug\net6.0\MaximalSum3x3.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\bin\Debug\net6.0\MaximalSum3x3.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\bin\Debug\net6.0\MaximalSum3x3.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\bin\Debug\net6.0\MaximalSum3x3.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\refint\MaximalSum3x3.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\MaximalSum3x3.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\MultidimensionalArrays_HW\MaximalSum3x3\MaximalSum3x3\obj\Debug\net6.0\ref\MaximalSum3x3.dll

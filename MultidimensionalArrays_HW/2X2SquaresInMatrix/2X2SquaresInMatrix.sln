@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2X2SquaresInMatrix", "2X2SquaresInMatrix\2X2SquaresInMatrix.csproj", "{88DC64A0-E232-4713-B43E-04EB64C3DCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DC64A0-E232-4713-B43E-04EB64C3DCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DC64A0-E232-4713-B43E-04EB64C3DCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DC64A0-E232-4713-B43E-04EB64C3DCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DC64A0-E232-4713-B43E-04EB64C3DCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92782F6C-4D08-4AA4-9A78-D4B3B7D270BE}
+	EndGlobalSection
+EndGlobal
