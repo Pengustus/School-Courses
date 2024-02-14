@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\bin\Debug\net6.0\CashDesk.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\bin\Debug\net6.0\CashDesk.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\bin\Debug\net6.0\CashDesk.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\bin\Debug\net6.0\CashDesk.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\bin\Debug\net6.0\CashDesk.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\refint\CashDesk.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\CashDesk.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\CashDesk\CashDesk\obj\Debug\net6.0\ref\CashDesk.dll

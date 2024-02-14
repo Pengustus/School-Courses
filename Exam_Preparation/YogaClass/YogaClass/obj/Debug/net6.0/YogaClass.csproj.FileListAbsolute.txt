@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\bin\Debug\net6.0\YogaClass.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\bin\Debug\net6.0\YogaClass.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\bin\Debug\net6.0\YogaClass.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\bin\Debug\net6.0\YogaClass.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\bin\Debug\net6.0\YogaClass.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\refint\YogaClass.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\YogaClass.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\YogaClass\YogaClass\obj\Debug\net6.0\ref\YogaClass.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\bin\Debug\net6.0\CountSameValues.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\bin\Debug\net6.0\CountSameValues.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\bin\Debug\net6.0\CountSameValues.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\bin\Debug\net6.0\CountSameValues.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\bin\Debug\net6.0\CountSameValues.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\refint\CountSameValues.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\CountSameValues.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\CountSameValues\CountSameValues\obj\Debug\net6.0\ref\CountSameValues.dll

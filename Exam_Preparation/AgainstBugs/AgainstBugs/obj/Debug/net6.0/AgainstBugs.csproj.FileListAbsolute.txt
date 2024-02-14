@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\bin\Debug\net6.0\AgainstBugs.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\bin\Debug\net6.0\AgainstBugs.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\bin\Debug\net6.0\AgainstBugs.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\bin\Debug\net6.0\AgainstBugs.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\bin\Debug\net6.0\AgainstBugs.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\refint\AgainstBugs.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\AgainstBugs.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\AgainstBugs\AgainstBugs\obj\Debug\net6.0\ref\AgainstBugs.dll

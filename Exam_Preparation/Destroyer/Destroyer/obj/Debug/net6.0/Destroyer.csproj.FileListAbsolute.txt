@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\bin\Debug\net6.0\Destroyer.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\bin\Debug\net6.0\Destroyer.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\bin\Debug\net6.0\Destroyer.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\bin\Debug\net6.0\Destroyer.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\bin\Debug\net6.0\Destroyer.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\refint\Destroyer.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\Destroyer.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Exam_Preparation\Destroyer\Destroyer\obj\Debug\net6.0\ref\Destroyer.dll

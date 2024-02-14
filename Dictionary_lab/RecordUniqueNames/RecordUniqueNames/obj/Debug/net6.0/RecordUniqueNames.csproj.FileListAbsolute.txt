@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\bin\Debug\net6.0\RecordUniqueNames.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\refint\RecordUniqueNames.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\RecordUniqueNames.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_lab\RecordUniqueNames\RecordUniqueNames\obj\Debug\net6.0\ref\RecordUniqueNames.dll
