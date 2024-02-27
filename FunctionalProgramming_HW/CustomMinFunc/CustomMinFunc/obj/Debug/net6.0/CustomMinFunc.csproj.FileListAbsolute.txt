@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\bin\Debug\net6.0\CustomMinFunc.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\bin\Debug\net6.0\CustomMinFunc.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\bin\Debug\net6.0\CustomMinFunc.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\bin\Debug\net6.0\CustomMinFunc.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\bin\Debug\net6.0\CustomMinFunc.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\refint\CustomMinFunc.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\CustomMinFunc.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\CustomMinFunc\CustomMinFunc\obj\Debug\net6.0\ref\CustomMinFunc.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\bin\Debug\net6.0\AddVAT.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\bin\Debug\net6.0\AddVAT.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\bin\Debug\net6.0\AddVAT.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\bin\Debug\net6.0\AddVAT.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\bin\Debug\net6.0\AddVAT.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\refint\AddVAT.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\AddVAT.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\AddVAT\AddVAT\obj\Debug\net6.0\ref\AddVAT.dll

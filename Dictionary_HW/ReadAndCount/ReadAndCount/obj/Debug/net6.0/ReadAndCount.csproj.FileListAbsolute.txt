@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\bin\Debug\net6.0\ReadAndCount.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\bin\Debug\net6.0\ReadAndCount.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\bin\Debug\net6.0\ReadAndCount.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\bin\Debug\net6.0\ReadAndCount.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\bin\Debug\net6.0\ReadAndCount.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\refint\ReadAndCount.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ReadAndCount.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\ReadAndCount\ReadAndCount\obj\Debug\net6.0\ref\ReadAndCount.dll

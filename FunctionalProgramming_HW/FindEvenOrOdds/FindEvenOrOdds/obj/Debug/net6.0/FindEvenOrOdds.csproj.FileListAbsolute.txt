@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\bin\Debug\net6.0\FindEvenOrOdds.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\bin\Debug\net6.0\FindEvenOrOdds.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\bin\Debug\net6.0\FindEvenOrOdds.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\bin\Debug\net6.0\FindEvenOrOdds.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\bin\Debug\net6.0\FindEvenOrOdds.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\refint\FindEvenOrOdds.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\FindEvenOrOdds.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\FindEvenOrOdds\FindEvenOrOdds\obj\Debug\net6.0\ref\FindEvenOrOdds.dll

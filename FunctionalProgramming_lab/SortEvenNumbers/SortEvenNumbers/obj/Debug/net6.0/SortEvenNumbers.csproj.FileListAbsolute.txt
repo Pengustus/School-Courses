@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\refint\SortEvenNumbers.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_lab\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\ref\SortEvenNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\bin\Debug\net6.0\Classification.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\bin\Debug\net6.0\Classification.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\bin\Debug\net6.0\Classification.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\bin\Debug\net6.0\Classification.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\bin\Debug\net6.0\Classification.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\refint\Classification.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\Classification.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Dictionary_HW\Classification\Classification\obj\Debug\net6.0\ref\Classification.dll
