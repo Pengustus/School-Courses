@@ -1,0 +1,5 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\NamingSir\NamingSir\obj\Debug\net6.0\NamingSir.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\NamingSir\NamingSir\obj\Debug\net6.0\NamingSir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\NamingSir\NamingSir\obj\Debug\net6.0\NamingSir.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\NamingSir\NamingSir\obj\Debug\net6.0\NamingSir.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\NamingSir\NamingSir\obj\Debug\net6.0\NamingSir.csproj.CoreCompileInputs.cache

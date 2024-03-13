@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\bin\Debug\net6.0\SumOfCharacters.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\bin\Debug\net6.0\SumOfCharacters.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\bin\Debug\net6.0\SumOfCharacters.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\bin\Debug\net6.0\SumOfCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\bin\Debug\net6.0\SumOfCharacters.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\refint\SumOfCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\SumOfCharacters.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\SumOfCharacters\SumOfCharacters\obj\Debug\net6.0\ref\SumOfCharacters.dll

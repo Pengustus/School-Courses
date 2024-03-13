@@ -1,0 +1,17 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\bin\Debug\net6.0-windows\project.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\bin\Debug\net6.0-windows\project.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\bin\Debug\net6.0-windows\project.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\bin\Debug\net6.0-windows\project.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\bin\Debug\net6.0-windows\project.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.Form1.resources
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.csproj.GenerateResource.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\refint\project.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\project.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Project\project\project\obj\Debug\net6.0-windows\ref\project.dll

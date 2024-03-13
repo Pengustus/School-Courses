@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\bin\Debug\net6.0\MaximumLengthOfNames.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\bin\Debug\net6.0\MaximumLengthOfNames.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\bin\Debug\net6.0\MaximumLengthOfNames.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\bin\Debug\net6.0\MaximumLengthOfNames.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\bin\Debug\net6.0\MaximumLengthOfNames.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\refint\MaximumLengthOfNames.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\MaximumLengthOfNames.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\FunctionalProgramming_HW\MaximumLengthOfNames\MaximumLengthOfNames\obj\Debug\net6.0\ref\MaximumLengthOfNames.dll
