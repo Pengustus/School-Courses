@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\bin\Debug\net6.0\ExtractFile.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\bin\Debug\net6.0\ExtractFile.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\bin\Debug\net6.0\ExtractFile.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\bin\Debug\net6.0\ExtractFile.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\bin\Debug\net6.0\ExtractFile.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\refint\ExtractFile.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ExtractFile.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ExtractFile\ExtractFile\obj\Debug\net6.0\ref\ExtractFile.dll
