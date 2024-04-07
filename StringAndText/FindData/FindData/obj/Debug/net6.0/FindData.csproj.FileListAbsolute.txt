@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\bin\Debug\net6.0\FindData.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\bin\Debug\net6.0\FindData.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\bin\Debug\net6.0\FindData.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\bin\Debug\net6.0\FindData.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\bin\Debug\net6.0\FindData.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\refint\FindData.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\FindData.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\FindData\FindData\obj\Debug\net6.0\ref\FindData.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\bin\Debug\net6.0\CalculationsWithCharacters.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\bin\Debug\net6.0\CalculationsWithCharacters.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\bin\Debug\net6.0\CalculationsWithCharacters.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\bin\Debug\net6.0\CalculationsWithCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\bin\Debug\net6.0\CalculationsWithCharacters.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\refint\CalculationsWithCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\CalculationsWithCharacters.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\CalculationsWithCharacters\CalculationsWithCharacters\obj\Debug\net6.0\ref\CalculationsWithCharacters.dll

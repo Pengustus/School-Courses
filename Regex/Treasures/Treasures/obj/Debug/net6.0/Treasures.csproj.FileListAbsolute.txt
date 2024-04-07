@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\bin\Debug\net6.0\Treasures.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\bin\Debug\net6.0\Treasures.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\bin\Debug\net6.0\Treasures.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\bin\Debug\net6.0\Treasures.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\bin\Debug\net6.0\Treasures.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\refint\Treasures.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\Treasures.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\Treasures\Treasures\obj\Debug\net6.0\ref\Treasures.dll

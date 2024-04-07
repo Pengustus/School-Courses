@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\bin\Debug\net6.0\BestHero.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\bin\Debug\net6.0\BestHero.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\bin\Debug\net6.0\BestHero.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\bin\Debug\net6.0\BestHero.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\bin\Debug\net6.0\BestHero.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\refint\BestHero.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\BestHero.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\BestHero\BestHero\obj\Debug\net6.0\ref\BestHero.dll

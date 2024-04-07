@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\bin\Debug\net6.0\RunningGear.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\bin\Debug\net6.0\RunningGear.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\bin\Debug\net6.0\RunningGear.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\bin\Debug\net6.0\RunningGear.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\bin\Debug\net6.0\RunningGear.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\refint\RunningGear.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\RunningGear.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Regex\RunningGear\RunningGear\obj\Debug\net6.0\ref\RunningGear.dll

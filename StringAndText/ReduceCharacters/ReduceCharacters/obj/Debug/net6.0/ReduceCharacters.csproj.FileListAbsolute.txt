@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\bin\Debug\net6.0\ReduceCharacters.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\bin\Debug\net6.0\ReduceCharacters.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\bin\Debug\net6.0\ReduceCharacters.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\bin\Debug\net6.0\ReduceCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\bin\Debug\net6.0\ReduceCharacters.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\refint\ReduceCharacters.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ReduceCharacters.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StringAndText\ReduceCharacters\ReduceCharacters\obj\Debug\net6.0\ref\ReduceCharacters.dll
