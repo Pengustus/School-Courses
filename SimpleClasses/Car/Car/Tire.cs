@@ -11,13 +11,13 @@ namespace Car
         private int year;
         private double pressure;
 
-        public int HorsePower
+        public int Year
         {
             get { return year; }
             set { year = value; }
         }
 
-        public double CubicCapacity
+        public double Pressure
         {
             get { return pressure; }
             set { pressure = value; }
@@ -25,7 +25,8 @@ namespace Car
 
         public Tire()
         {
-
+            this.Year = year;
+            this.Pressure = pressure;
         }
     }
 }
