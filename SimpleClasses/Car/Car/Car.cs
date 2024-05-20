@@ -13,6 +13,8 @@ namespace Car
         private int year;
         private double fuelQuantity;
         private double fuelConsumption;
+        private Tire[] tires;
+        private Engine engine;
 
         public string Make
         {
@@ -44,6 +46,18 @@ namespace Car
             set { fuelConsumption = value; }
         }
 
+        public Engine Engine
+        {
+            get { return engine; }
+            set { engine = value; }
+        }
+
+        public Tire[] Tires
+        {
+            get { return tires; }
+            set { tires = value; }
+        }
+
         public Car()
         {
             this.Make = "VW";
@@ -68,6 +82,13 @@ namespace Car
             this.FuelConsumption = fuelConsumption;
         }
 
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Tire[] tires, Engine engine)
+            : this(make, model, year, fuelQuantity, fuelConsumption)
+        {
+            this.Engine = engine;
+            this.Tires = tires;
+        }
+
         public void Drive(double distance)
         {
             if (fuelQuantity - (distance * fuelConsumption) > 0)
@@ -82,7 +103,7 @@ namespace Car
 
         public string WhoAmI()
         {
-            return make;
+            return Make;
         }
     }
 }

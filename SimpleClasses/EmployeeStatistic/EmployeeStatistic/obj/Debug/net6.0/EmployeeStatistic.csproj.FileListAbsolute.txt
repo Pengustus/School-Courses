@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\net6.0\EmployeeStatistic.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\net6.0\EmployeeStatistic.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\net6.0\EmployeeStatistic.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\net6.0\EmployeeStatistic.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\bin\Debug\net6.0\EmployeeStatistic.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\refint\EmployeeStatistic.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\EmployeeStatistic.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\SimpleClasses\EmployeeStatistic\EmployeeStatistic\obj\Debug\net6.0\ref\EmployeeStatistic.dll
