@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExceptionHandling\SquareRoot\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll
