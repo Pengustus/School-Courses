@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\bin\Debug\net6.0\PongProject.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\bin\Debug\net6.0\PongProject.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\bin\Debug\net6.0\PongProject.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\bin\Debug\net6.0\PongProject.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\bin\Debug\net6.0\PongProject.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\refint\PongProject.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\PongProject.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\PongProject\PongProject\PongProject\obj\Debug\net6.0\ref\PongProject.dll

@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\refint\OddLines.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\StreamsAndFiles\OddLines\OddLines\obj\Debug\net6.0\ref\OddLines.dll
