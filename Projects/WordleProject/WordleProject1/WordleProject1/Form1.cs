@@ -2,7 +2,7 @@ namespace WordleProject1
 {
     public partial class WordleForm : Form
     {
-        private const string WordsTextFile = @"wordsForWordle.txt";
+        private const string WordsTextFile = @"wordsForWordle.txt";  // wordsForWordle.txt
         private const int RowLength = 5;
         private const string PlayAgainMessage = "Play again?";
         private int previousRow = 0;
