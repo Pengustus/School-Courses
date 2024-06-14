@@ -1,0 +1,51 @@
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.exe
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.deps.json
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.runtimeconfig.json
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.dll
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.pdb
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.GenerateResource.cache
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfoInputs.cache
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfo.cs
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.dll
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\refint\Wordle.dll
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.pdb
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.genruntimeconfig.cache
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\ref\Wordle.dll
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.WordleForm.resources
+C:\Users\ivans\Desktop\githubneshta\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.sourcelink.json
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.exe
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.deps.json
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.runtimeconfig.json
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.dll
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.pdb
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.WordleForm.resources
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.GenerateResource.cache
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfoInputs.cache
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfo.cs
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.sourcelink.json
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.dll
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\refint\Wordle.dll
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.pdb
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.genruntimeconfig.cache
+C:\Users\ivans\Documents\Repos\School\School\School Courses\Wordle\Wordle\obj\Debug\net6.0-windows\ref\Wordle.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\bin\Debug\net6.0-windows\Wordle.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.WordleForm.resources
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.GenerateResource.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\refint\Wordle.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\Wordle.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\Projects\Wordle-project-final-main\Wordle\Wordle\obj\Debug\net6.0-windows\ref\Wordle.dll
