@@ -60,6 +60,7 @@ namespace GameOfLife
             DrawMenuPanel(windowWidth);
 
             return stringBuilder.ToString().TrimEnd();
+
         }
 
         public virtual void DrawMenuPanel(int windowWidth)
@@ -73,23 +74,20 @@ namespace GameOfLife
             {
                 for (int col = 0; col < NextCellGeneration.GetLength(1); col++)
                 {
-                    int liveNeighbors = CalculateLiveNeighbors(row, col);
+                    int liveNeighbours = CalculateLiveNeighbours(row, col);
 
-                    if (CurrentCellGeneration[row, col] == 1 && liveNeighbors < 2)
+                    if (CurrentCellGeneration[row, col] == 1 && liveNeighbours < 2)
                     {
                         NextCellGeneration[row, col] = 0;
                     }
-
-                    else if (CurrentCellGeneration[row, col] == 1 && liveNeighbors > 3)
+                    else if (CurrentCellGeneration[row, col] == 1 && liveNeighbours > 3)
                     {
                         NextCellGeneration[row, col] = 0;
                     }
-
-                    else if (CurrentCellGeneration[row, col] == 1 && liveNeighbors == 3)
+                    else if (CurrentCellGeneration[row, col] == 0 && liveNeighbours == 3)
                     {
                         NextCellGeneration[row, col] = 1;
                     }
-
                     else
                     {
                         NextCellGeneration[row, col] = CurrentCellGeneration[row, col];
@@ -98,6 +96,7 @@ namespace GameOfLife
             }
 
             TransferNextGenerations();
+
         }
 
         private void TransferNextGenerations()
@@ -111,39 +110,39 @@ namespace GameOfLife
             }
         }
 
-        private int CalculateLiveNeighbors(int cellRow, int cellCol)
+        private int CalculateLiveNeighbours(int cellRow, int cellCol)
         {
-            int liveNeighbors = 0;
+            int liveNeighbours = 0;
 
-            for (int neighborCellRow = -1; neighborCellRow <= -1; neighborCellRow++)
+            for (int neighbourCellRow = -1; neighbourCellRow <= 1; neighbourCellRow++)
             {
-                for (int neighborCellCol = -1; neighborCellCol <= -1; neighborCellCol++)
+                for (int neighbourCellColl = -1; neighbourCellColl <= 1; neighbourCellColl++)
                 {
-                    if (IsOutOfBoundariesOrSameCell(cellRow, cellCol, neighborCellRow, neighborCellCol))
+                    if (IsOutOfBoundariesOrSameCell(cellRow, cellCol, neighbourCellRow, neighbourCellColl))
                     {
                         continue;
                     }
 
-                    liveNeighbors += CurrentCellGeneration[cellRow + neighborCellRow, cellCol + neighborCellCol];
+                    liveNeighbours += CurrentCellGeneration[cellRow + neighbourCellRow, cellCol + neighbourCellColl];
                 }
             }
 
-            return liveNeighbors;
+            return liveNeighbours;
         }
 
-        private bool IsOutOfBoundariesOrSameCell(int cellRow, int cellCol, int neighborCellRow, int neighborCellCol)
+        private bool IsOutOfBoundariesOrSameCell(int cellRow, int cellCol, int neighbourCellRow, int neighbourCellCol)
         {
-            if (cellRow + neighborCellRow< 0 || cellRow + neighborCellRow >= CurrentCellGeneration.GetLength(0))
+            if (cellRow + neighbourCellRow < 0 || cellRow + neighbourCellRow >= CurrentCellGeneration.GetLength(0))
             {
                 return true;
             }
 
-            if (cellCol + neighborCellCol < 0 || cellCol + neighborCellCol >= CurrentCellGeneration.GetLength(1))
+            if (cellCol + neighbourCellCol < 0 || cellCol + neighbourCellCol >= CurrentCellGeneration.GetLength(1))
             {
                 return true;
             }
 
-            if (cellRow + neighborCellRow == cellRow && cellCol + neighborCellCol == cellCol)
+            if (cellRow + neighbourCellRow == cellRow && cellCol + neighbourCellCol == cellCol)
             {
                 return true;
             }

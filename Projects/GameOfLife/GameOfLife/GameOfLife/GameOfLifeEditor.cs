@@ -8,16 +8,16 @@ namespace GameOfLife
 {
     public class GameOfLifeEditor : GameOfLifeBase
     {
-        public GameOfLifeEditor(int x, int y) : base(x, y)
-        {
-
-        }
-
         private int cursorPositionX = 0;
         private int cursorPositionY = 0;
 
         private int cellPositionX = 0;
         private int cellPositionY = 0;
+
+        public GameOfLifeEditor(int x, int y) : base(x, y)
+        {
+
+        }
 
         public override void DrawMenuPanel(int windowWidth)
         {
@@ -38,6 +38,7 @@ namespace GameOfLife
                     if (cursorPositionX - 2 > 0)
                     {
                         Console.SetCursorPosition(cursorPositionX -= 2, cursorPositionY);
+                        //cellPositionY--;
                     }
                     break;
 
@@ -45,6 +46,7 @@ namespace GameOfLife
                     if (cursorPositionX + 2 < CurrentCellGeneration.GetLength(1) - 1)
                     {
                         Console.SetCursorPosition(cursorPositionX += 2, cursorPositionY);
+                        //cellPositionY++;
                     }
                     break;
 
@@ -52,6 +54,7 @@ namespace GameOfLife
                     if (cursorPositionY - 1 > 0)
                     {
                         Console.SetCursorPosition(cursorPositionX, cursorPositionY -= 1);
+                        //cellPositionY--;
                     }
                     break;
 
@@ -59,6 +62,7 @@ namespace GameOfLife
                     if (cursorPositionX + 2 < CurrentCellGeneration.GetLength(1) - 1)
                     {
                         Console.SetCursorPosition(cursorPositionX, cursorPositionY += 1);
+                        //cellPositionY++;
                     }
                     break;
 

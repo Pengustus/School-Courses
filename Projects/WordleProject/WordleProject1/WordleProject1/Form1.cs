@@ -5,48 +5,46 @@ namespace WordleProject1
         private const string WordsTextFile = @"wordsForWordle.txt";
         private const int RowLength = 5;
         private const string PlayAgainMessage = "Play again?";
-
         private int previousRow = 0;
         private int hintsCount = 0;
         private string currentWord = string.Empty;
         private List<TextBox> currentBoxes = new List<TextBox>();
-
         public WordleForm()
         {
             InitializeComponent();
-
             StartNewGame();
-
             foreach (TextBox tb in this.Controls.OfType<TextBox>())
             {
                 tb.MouseClick += this.FocusTextBox;
                 tb.KeyDown += this.MoveCursor;
             }
-
             btnSubmit.Click += btnSubmit_Click;
             btnHint.Click += btnHint_Click;
             btnReset.Click += btnReset_Click;
         }
-
         private void FocusTextBox(object sender, MouseEventArgs e)
         {
+
             if (sender is TextBox textBox)
             {
                 textBox.Focus();
             }
         }
-
+        private bool ShouldGoToLeftTextBox(Keys pressedKey, int currentTextBoxIndex) => pressedKey == Keys.Left && !IsFirstTextBox(currentTextBoxIndex);
+        private bool IsFirstTextBox(int currentTextBoxIndex) => (currentTextBoxIndex + 4) % RowLength == 0;
+        private bool ShouldGoToRichtTextBox(Keys pressedKey, int currentTextBoxIndex) => (pressedKey == Keys.Right || IsAlphabetKeyPressed(pressedKey.ToString())) && !IsLastTextBox(currentTextBoxIndex);
+        private bool IsLastTextBox(int currentTextBoxIndex) => currentTextBoxIndex % RowLength == 0;
+        private bool IsAlphabetKeyPressed(string pressedKeystring) => pressedKeystring.Count() == 1 && char.IsLetter(pressedKeystring[0]);
         private void MoveCursor(object sender, KeyEventArgs e)
         {
             var pressedKey = e.KeyCode;
             var senderTextBox = sender as TextBox;
             var currentTextBoxIndex = int.Parse(senderTextBox.Name.Replace("textBox", ""));
-
             if (ShouldGoToLeftTextBox(pressedKey, currentTextBoxIndex))
             {
                 currentTextBoxIndex--;
             }
-            else if (ShouldGoToRightTextBox(pressedKey, currentTextBoxIndex))
+            else if (ShouldGoToRichtTextBox(pressedKey, currentTextBoxIndex))
             {
                 currentTextBoxIndex++;
             }
@@ -55,22 +53,15 @@ namespace WordleProject1
             textBox.Focus();
         }
 
-        private bool ShouldGoToLeftTextBox(Keys pressedKey, int currentTextBoxIndex) 
-            => pressedKey == Keys.Left && !IsFirstTextBox(currentTextBoxIndex);
-        private bool IsFirstTextBox(int currentTextBoxIndex) 
-            => (currentTextBoxIndex + 4) % RowLength == 0;
-        private bool ShouldGoToRightTextBox(Keys pressedKey, int currentTextBoxIndex) => (pressedKey == Keys.Right || IsAlphabetKeyPressed(pressedKey.ToString())) && !IsLastTextBox(currentTextBoxIndex);
-        private bool IsLastTextBox(int currentTextBoxIndex) 
-            => currentTextBoxIndex % RowLength == 0;
-        private bool IsAlphabetKeyPressed(string pressedKeystring) 
-            => pressedKeystring.Count() == 1 && char.IsLetter(pressedKeystring[0]);
-
         private TextBox GetTextBox(int index)
         {
             string textBoxName = string.Format($"textBox{index}", index);
             return this.Controls[textBoxName] as TextBox;
         }
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
+        }
         private void StartNewGame()
         {
             var wordList = GetAllWords();
@@ -120,7 +111,6 @@ namespace WordleProject1
             previousRow++;
             ModifyTextBoxesAvailability(true);
         }
-
         private string GetInput()
         {
             this.currentBoxes = new List<TextBox>();
@@ -151,7 +141,7 @@ namespace WordleProject1
         }
         private void DisplayInvalidWordMessage()
         {
-            MessageBox.Show("Please enter a valid five-letter word.");
+            MessageBox.Show("Plase enter a valid five-letter word.");
         }
         private void ColorBoxes()
         {
@@ -174,7 +164,11 @@ namespace WordleProject1
                 }
             }
         }
-        private bool WordContainsChar(char ch) => this.currentWord.Contains(ch, StringComparison.OrdinalIgnoreCase);
+        private bool WordContainsChar(char ch)
+        {
+            return this.currentWord.IndexOf(ch.ToString(), StringComparison.OrdinalIgnoreCase) >= 0;
+        }
+
         private bool IsCharOnCorrectIndex(int index, char ch) => this.currentWord[index] == ch;
 
         private bool IsWordGuessed(string attempt)
@@ -289,6 +283,8 @@ namespace WordleProject1
             }
             RevealRandomWordLetter(unavailablePositions);
         }
+
+
         private void GameRestart(object sender, EventArgs e)
         {
             Application.Restart();

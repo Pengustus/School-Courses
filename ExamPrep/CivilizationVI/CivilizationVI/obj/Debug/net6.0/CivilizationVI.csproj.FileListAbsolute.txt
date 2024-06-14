@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\bin\Debug\net6.0\CivilizationVI.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\bin\Debug\net6.0\CivilizationVI.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\bin\Debug\net6.0\CivilizationVI.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\bin\Debug\net6.0\CivilizationVI.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\bin\Debug\net6.0\CivilizationVI.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\refint\CivilizationVI.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\CivilizationVI.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\CivilizationVI\CivilizationVI\obj\Debug\net6.0\ref\CivilizationVI.dll

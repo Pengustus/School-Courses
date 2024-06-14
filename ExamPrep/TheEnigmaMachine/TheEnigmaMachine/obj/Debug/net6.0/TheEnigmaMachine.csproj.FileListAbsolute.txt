@@ -1,0 +1,15 @@
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\bin\Debug\net6.0\TheEnigmaMachine.exe
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\bin\Debug\net6.0\TheEnigmaMachine.deps.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\bin\Debug\net6.0\TheEnigmaMachine.runtimeconfig.json
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\bin\Debug\net6.0\TheEnigmaMachine.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\bin\Debug\net6.0\TheEnigmaMachine.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.csproj.AssemblyReference.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.AssemblyInfoInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.AssemblyInfo.cs
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.csproj.CoreCompileInputs.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\refint\TheEnigmaMachine.dll
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.pdb
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\TheEnigmaMachine.genruntimeconfig.cache
+C:\Users\Orlin Rizov\Documents\School_GitHub\School-Courses\ExamPrep\TheEnigmaMachine\TheEnigmaMachine\obj\Debug\net6.0\ref\TheEnigmaMachine.dll
