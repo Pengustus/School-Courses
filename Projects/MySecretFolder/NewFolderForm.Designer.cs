@@ -41,28 +41,31 @@
             // 
             label1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             label1.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(113, 50);
+            label1.Location = new Point(79, 30);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(602, 93);
+            label1.Size = new Size(229, 56);
             label1.TabIndex = 0;
-            label1.Text = "Please enter folder name";
+            label1.Text = "Folder name:";
             label1.TextAlign = ContentAlignment.TopCenter;
             // 
             // textBoxFolderName
             // 
             textBoxFolderName.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-            textBoxFolderName.Location = new Point(67, 159);
+            textBoxFolderName.Location = new Point(47, 95);
+            textBoxFolderName.Margin = new Padding(2, 2, 2, 2);
             textBoxFolderName.Name = "textBoxFolderName";
-            textBoxFolderName.Size = new Size(701, 31);
+            textBoxFolderName.Size = new Size(300, 23);
             textBoxFolderName.TabIndex = 1;
             textBoxFolderName.Validating += ValidateTextBoxFolderName;
             // 
             // buttonEnter
             // 
-            buttonEnter.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
-            buttonEnter.Location = new Point(656, 271);
+            buttonEnter.Anchor = AnchorStyles.Bottom;
+            buttonEnter.Location = new Point(142, 184);
+            buttonEnter.Margin = new Padding(2, 2, 2, 2);
             buttonEnter.Name = "buttonEnter";
-            buttonEnter.Size = new Size(112, 34);
+            buttonEnter.Size = new Size(78, 20);
             buttonEnter.TabIndex = 2;
             buttonEnter.Text = "Enter";
             buttonEnter.UseVisualStyleBackColor = true;
@@ -75,21 +78,23 @@
             // labelError
             // 
             labelError.AutoSize = true;
-            labelError.Location = new Point(67, 193);
+            labelError.Location = new Point(47, 120);
+            labelError.Margin = new Padding(2, 0, 2, 0);
             labelError.Name = "labelError";
-            labelError.Size = new Size(20, 25);
+            labelError.Size = new Size(12, 15);
             labelError.TabIndex = 3;
             labelError.Text = "*";
             // 
             // NewFolderForm
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(804, 357);
+            ClientSize = new Size(371, 244);
             Controls.Add(labelError);
             Controls.Add(buttonEnter);
             Controls.Add(textBoxFolderName);
             Controls.Add(label1);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "NewFolderForm";
             Text = "New Folder";
             ((System.ComponentModel.ISupportInitialize)errorProviderFolderName).EndInit();

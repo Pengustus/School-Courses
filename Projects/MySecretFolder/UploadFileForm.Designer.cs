@@ -42,9 +42,10 @@
             // 
             label1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             label1.Font = new Font("Segoe UI", 24F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(12, 32);
+            label1.Location = new Point(8, 19);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(774, 74);
+            label1.Size = new Size(449, 44);
             label1.TabIndex = 0;
             label1.Text = "Upload your new secret file";
             label1.TextAlign = ContentAlignment.TopCenter;
@@ -52,9 +53,10 @@
             // richTextBoxTextContent
             // 
             richTextBoxTextContent.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            richTextBoxTextContent.Location = new Point(28, 120);
+            richTextBoxTextContent.Location = new Point(20, 72);
+            richTextBoxTextContent.Margin = new Padding(2, 2, 2, 2);
             richTextBoxTextContent.Name = "richTextBoxTextContent";
-            richTextBoxTextContent.Size = new Size(739, 242);
+            richTextBoxTextContent.Size = new Size(424, 145);
             richTextBoxTextContent.TabIndex = 1;
             richTextBoxTextContent.Text = "";
             richTextBoxTextContent.Validating += richTextBoxTextContent_Validating;
@@ -62,9 +64,10 @@
             // buttonSave
             // 
             buttonSave.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
-            buttonSave.Location = new Point(329, 390);
+            buttonSave.Location = new Point(147, 234);
+            buttonSave.Margin = new Padding(2, 2, 2, 2);
             buttonSave.Name = "buttonSave";
-            buttonSave.Size = new Size(197, 34);
+            buttonSave.Size = new Size(138, 20);
             buttonSave.TabIndex = 2;
             buttonSave.Text = "Save";
             buttonSave.UseVisualStyleBackColor = true;
@@ -73,9 +76,10 @@
             // buttonOpenFileanager
             // 
             buttonOpenFileanager.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
-            buttonOpenFileanager.Location = new Point(545, 390);
+            buttonOpenFileanager.Location = new Point(289, 234);
+            buttonOpenFileanager.Margin = new Padding(2, 2, 2, 2);
             buttonOpenFileanager.Name = "buttonOpenFileanager";
-            buttonOpenFileanager.Size = new Size(222, 34);
+            buttonOpenFileanager.Size = new Size(155, 20);
             buttonOpenFileanager.TabIndex = 2;
             buttonOpenFileanager.Text = "Open File Manager";
             buttonOpenFileanager.UseVisualStyleBackColor = true;
@@ -88,22 +92,24 @@
             // labelError
             // 
             labelError.AutoSize = true;
-            labelError.Location = new Point(28, 365);
+            labelError.Location = new Point(20, 219);
+            labelError.Margin = new Padding(2, 0, 2, 0);
             labelError.Name = "labelError";
-            labelError.Size = new Size(20, 25);
+            labelError.Size = new Size(12, 15);
             labelError.TabIndex = 3;
             labelError.Text = "*";
             // 
             // UploadFileForm
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(798, 468);
+            ClientSize = new Size(466, 281);
             Controls.Add(labelError);
             Controls.Add(buttonOpenFileanager);
             Controls.Add(buttonSave);
             Controls.Add(richTextBoxTextContent);
             Controls.Add(label1);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "UploadFileForm";
             Text = "Upload File";
             ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
